@@ -1,0 +1,22 @@
+{
+  "name": "myproject-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nooIces/MyProject-BackEnd.git"
+  },
+  "author": "wwy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nooIces/MyProject-BackEnd/issues"
+  },
+  "homepage": "https://github.com/nooIces/MyProject-BackEnd#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
